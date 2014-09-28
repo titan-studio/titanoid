@@ -5,7 +5,6 @@ Titanoid
 ```
 !echo 			-- responds with "Echo!"
 Titanoid! 		-- responds with "Username!"
-!kick <user> 	-- Kicks user
 ```
 
 # Dependencies
